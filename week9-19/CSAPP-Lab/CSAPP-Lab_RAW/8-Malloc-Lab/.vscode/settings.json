@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "clock.h": "c",
-        "memlib.h": "c",
-        "mm.h": "c",
-        "assert.h": "c"
-    }
-}

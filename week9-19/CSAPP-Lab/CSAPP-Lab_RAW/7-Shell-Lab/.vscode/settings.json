@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "signal.h": "c",
-        "types.h": "c",
-        "int-ll64.h": "c",
-        "bitsperlong.h": "c",
-        "setjmp.h": "c"
-    }
-}
